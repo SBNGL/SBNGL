@@ -37,11 +37,8 @@ Actualmente me enfoco en:
 
 ### ⚙️ Backend y bases de datos
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
-![Alembic](https://img.shields.io/badge/Alembic-333333?style=flat-square)
 
 ### 🤖 Inteligencia artificial
 
@@ -70,6 +67,7 @@ Actualmente me enfoco en:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
@@ -93,8 +91,21 @@ Backend · QA y Testing · Inteligencia Artificial · Bases de Datos · Desarrol
 
 ---
 
+---
+
 <div align="center">
 
-Gracias por visitar mi perfil. ¡Siempre estoy aprendiendo y construyendo algo nuevo!
+## 📫 Contacto
+
+Estoy abierto a conectar con otros desarrolladores, colaborar en proyectos y seguir aprendiendo.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-gomez-lerma-20906a336/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sgl069517@gmail.com)
+
+<br>
+
+*"Siempre aprendiendo, construyendo y mejorando."*
 
 </div>
+
+---
